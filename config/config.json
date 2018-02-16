@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": PROCESS.ENV.DB_USERNAME,
+    "password": PROCESS.ENV.DB_PASSWORD,
+    "database": PROCESS.ENV.DB_DATABASE,
+    "host": PROCESS.ENV.DB_HOST,
     "dialect": "mysql"
   }
 }
