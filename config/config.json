@@ -16,8 +16,8 @@
   "production": {
     "username": "root",
     "password": null,
-    "database": "blogger_db",
-    "host": "127.0.0.1",
+    "database": "heroku_c52b311ff07d2f9",
+    "host": "bizarroblog",
     "dialect": "mysql"
   }
 }
