@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
+    "username": "bcd55a964d2f36",
+    "password": "255e96fc",
     "database": "heroku_c52b311ff07d2f9",
-    "host": "bizarroblog",
+    "host": "us-cdbr-iron-east-05.cleardb.net",
     "dialect": "mysql"
   }
 }
