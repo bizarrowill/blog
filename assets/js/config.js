@@ -1,15 +1,15 @@
 configReactDriveCms = {
-    author: 'Your Author Name',
+    author: 'Will Robertson',
     /**
      * Add the Id for the Google Sheets Dashboard file
      */
-    dashboardId: 'YOUR-GOOGLE-DRIVE-SHEET-DASHBOARD-ID',
+    dashboardId: '11u3aFXB27sSG209366RNJih3j_NDhcQsVHLHbT1JNgI',
     /**
      * Add the Url Id for the Google Web App Script to forward email from the Contact Form
      */
-    sendMailUrlId: 'THE-URL-ID-TO-YOUR-GOOGLE-APPS-SCRIPT-PUBLISHED-WEB-APP',
+    sendMailUrlId: '19DS3R2ElyPJTesYTMsgPTYxhsS7IyEA9r8mFa_2SIj3QwX4IBkxzRbPw',
     /**
      * Add your Disqus shortname
      */
-    shortname: 'your-disqus-shortname'
+    shortname: 'bizarrowill'
 };
